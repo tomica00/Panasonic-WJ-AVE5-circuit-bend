@@ -45,6 +45,7 @@ I wanted to do this scientifically, by trying all the possible combinations and 
 
 | My pin number | Actual pin number |
 | ------------- | ----------------- |
+| 0             | ground            |
 | 1             | 2                 |
 | 2             | 3                 |
 | 3             | 4                 |
