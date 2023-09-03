@@ -41,7 +41,7 @@ Karl Klomp apparently made an audio reactive wipe by connecting pin 14 on IC224 
 
 ## Exploring the glitches
 
-I wanted to do this scientifically, by trying all the possible combinations and documenting the glitches with screenshots. I first tried connecting every pin to ground, and then I tried combinations of two pins - pin 1 and 2, pin 1 and 3, pin 1 and 4, and so on. Then pin 2 and 3, pin 2 and 4, pin 2 and 5... I tried 210 different combinations and found some really interesting effects that you can find in the folder named [glitch screenshots](glitch screenshots/). The filename is the pin numbers on my breakout (not the same as the actual pin numbers on the IC). I number the pins differently. Here is the table for conversion:
+I wanted to do this scientifically, by trying all the possible combinations and documenting the glitches with screenshots. I first tried connecting every pin to ground, and then I tried combinations of two pins - pin 1 and 2, pin 1 and 3, pin 1 and 4, and so on. Then pin 2 and 3, pin 2 and 4, pin 2 and 5... I tried 210 different combinations and found some really interesting effects that you can find in the folder named [glitch screenshots]('glitch screenshots/') . The filename is the pin numbers on my breakout (not the same as the actual pin numbers on the IC). I number the pins differently. Here is the table for conversion:
 
 | My pin number | Actual pin number |
 | ------------- | ----------------- |
