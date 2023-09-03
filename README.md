@@ -6,7 +6,7 @@ When I was a kid in the 1990s, I got fascinated by TV and as we had a camera at 
 
 The mod I found on Circuit Benders forum:
 ![Tarcisio AVE5 mod](pictures/Tarcisio%20mod.jpg)
-
+(The audio reactive wipe is wrong, scroll down to see how to make it work)
 
 
 ## Photos
