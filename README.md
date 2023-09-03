@@ -41,7 +41,32 @@ Karl Klomp apparently made an audio reactive wipe by connecting pin 14 on IC224 
 
 ## Exploring the glitches
 
-I wanted to do this scientifically, by trying all the possible combinations and documenting the glitches with screenshots. I first tried connecting every pin to ground, and then I tried combinations of two pins - pin 1 and 2, pin 1 and 3, pin 1 and 4, and so on. Then pin 2 and 3, pin 2 and 4, pin 2 and 5... I tried 210 different combinations and found some really interesting effects that you can find in the folder named "glitch screenshots". The description of the effects is sometimes in the filename.
+I wanted to do this scientifically, by trying all the possible combinations and documenting the glitches with screenshots. I first tried connecting every pin to ground, and then I tried combinations of two pins - pin 1 and 2, pin 1 and 3, pin 1 and 4, and so on. Then pin 2 and 3, pin 2 and 4, pin 2 and 5... I tried 210 different combinations and found some really interesting effects that you can find in the folder named "glitch screenshots". The filename is the pin numbers on my breakout (not the same as the actual pin numbers on the IC). I number the pins differently. Here is the table for conversion:
+
+| My pin number | Actual pin number |
+| ------------- | ----------------- |
+| 1             | 2                 |
+| 2             | 3                 |
+| 3             | 4                 |
+| 4             | 5                 |
+| 5             | 6                 |
+| 6             | 7                 |
+| 7             | 8                 |
+| 8             | 9                 |
+| 9             | 10                |
+| 10            | 12                |
+| 11            | 13                |
+| 12            | 17                |
+| 13            | 18                |
+| 14            | 19                |
+| 15            | 22                |
+| 16            | 23                |
+| 17            | 24                |
+| 18            | 25                |
+| 19            | 26                |
+| 20            | 28                |
+
+
 
 ## Final thoughts
 
