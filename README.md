@@ -39,3 +39,7 @@ Karl Klomp apparently made an audio reactive wipe by connecting pin 14 on IC224 
 
 I wanted to do this scientifically, by trying all the possible combinations and documenting the glitches with screenshots. I first tried connecting every pin to ground, and then I tried combinations of two pins - pin 1 and 2, pin 1 and 3, pin 1 and 4, and so on. Then pin 2 and 3, pin 2 and 4, pin 2 and 5... I tried 210 different combinations and found some really interesting effects that you can find in the folder named "glitch screenshots". The description of the effects is sometimes in the filename.
 
+## Final thoughts
+
+I believe this is, at the time of writing, the most detailed documentation of the Panasonic AVE-5 mod and the glitches you can get with it. I will be expanding it as I discover new stuff. Feel free to contribute as well! :D
+A lot of interesting visuals can be made by using internal feedback - plugging one of the outputs into an input. You can then mix them with a simple dissolve or using a wipe. Use Fade control to reduce the amount of feedback, this is very important as feedback easily gets overblown, and you just get a white screen.
