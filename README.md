@@ -8,6 +8,10 @@ When I was a kid in the 1990s, I got fascinated by TV and as we had a camera at 
 
 Here are some images:
 
+![The Panasonic WJ-AVE5](pictures/IMG_20230511_235248.jpg)
+
+Inside:
+
 ![Inside Panasonic AVE-5](pictures/IMG_20230831_220430.jpg)
 
 I marked the memory pins that Tarcisio used, but I also found out that other pins have interesting glitches as well.
