@@ -67,6 +67,7 @@ I wanted to do this scientifically, by trying all the possible combinations and 
 | 19            | 26                |
 | 20            | 28                |
 
+![Glitches collage](pictures/InShot_20230904_011448331.jpg)
 
 
 ## Final thoughts
