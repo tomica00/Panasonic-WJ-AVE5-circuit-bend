@@ -52,7 +52,7 @@ I wanted to do this scientifically, by trying all the possible combinations and 
 
 | My pin no. | Tarcisio pin no. | Service manual pin no. |
 | --- | --- | --- |
-| 0 (GND) | 16 (GND) |
+| 0 (GND) | 16 (GND) | 26 (GND) |
 | 1 | 2 | 27 |
 | 2 | 3 | 25 |
 | 3 | 4 | 23 |
