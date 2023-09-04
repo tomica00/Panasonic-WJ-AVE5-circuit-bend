@@ -42,7 +42,7 @@ Iain Sharp from [Lushprojects](https://lushprojects.com/) apparently made an aud
 
 ![Mix potentiometer pin](pictures/IMG_20230903_202802.jpg)
 
-Not the best picture, but this is the "REC Video Out 1 audio output" left channel RCA. You just solder the wire to the center pin. (Use a multimeter to confirm you got the right pin).
+Not the best picture, but this is the "REC Video Out 1 audio output" left channel RCA. You just solder the wire to the center pin. (Use a multimeter in continuity tester mode to confirm you got the right pin).
 
 ![Audio out](pictures/audio%20out.jpg)
 
