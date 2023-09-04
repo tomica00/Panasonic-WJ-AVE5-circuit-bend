@@ -46,31 +46,33 @@ Iain Sharp from [Lushprojects](https://lushprojects.com/) apparently made an aud
 
 ## Exploring the glitches
 
-I wanted to do this scientifically, by trying all the possible combinations and documenting the glitches with screenshots. I first tried connecting every pin to ground, and then I tried combinations of two pins - pin 1 and 2, pin 1 and 3, pin 1 and 4, and so on. Then pin 2 and 3, pin 2 and 4, pin 2 and 5... I tried 210 different combinations and found some really interesting effects that you can find in the folder named "[glitch screenshots](glitch%20screenshots/)". The filename is the pin numbers on my breakout (not the same as the actual pin numbers on the IC). I number the pins differently. Here is the table for conversion:
+I wanted to do this scientifically, by trying all the possible combinations and documenting the glitches with screenshots. I first tried connecting every pin to ground, and then I tried combinations of two pins - pin 1 and 2, pin 1 and 3, pin 1 and 4, and so on. Then pin 2 and 3, pin 2 and 4, pin 2 and 5... I tried 210 different combinations and found some really interesting effects that you can find in the folder named "[glitch screenshots](glitch%20screenshots/)". The filename is the pin numbers on my breakout (not the same as the actual pin numbers on the IC). I number the pins differently. Here is the conversion table:
 
-| My pin number | Actual pin number |
-| ------------- | ----------------- |
-| 0             | ground            |
-| 1             | 2                 |
-| 2             | 3                 |
-| 3             | 4                 |
-| 4             | 5                 |
-| 5             | 6                 |
-| 6             | 7                 |
-| 7             | 8                 |
-| 8             | 9                 |
-| 9             | 10                |
-| 10            | 12                |
-| 11            | 13                |
-| 12            | 17                |
-| 13            | 18                |
-| 14            | 19                |
-| 15            | 22                |
-| 16            | 23                |
-| 17            | 24                |
-| 18            | 25                |
-| 19            | 26                |
-| 20            | 28                |
+**IC217 pin numbers**
+
+| My pin no. | Tarcisio pin no. | Service manual pin no. |
+| --- | --- | --- |
+| 0 (GND) | 16 (GND) |
+| 1 | 2 | 27 |
+| 2 | 3 | 25 |
+| 3 | 4 | 23 |
+| 4 | 5 | 21 |
+| 5 | 6 | 19 |
+| 6 | 7 | 17 |
+| 7 | 8 | 15 |
+| 8 | 9 | 13 |
+| 9 | 10 | 11 |
+| 10 | 12 | 5 |
+| 11 | 13 | 3 |
+| 12 | 17 | 24 |
+| 13 | 18 | 22 |
+| 14 | 19 | 20 |
+| 15 | 22 | 14 |
+| 16 | 23 | 12 |
+| 17 | 24 | 10 |
+| 18 | 25 | 8 |
+| 19 | 26 | 6 |
+| 20 | 28 | 2 |
 
 ![Glitches collage](pictures/InShot_20230904_011448331.jpg)
 
