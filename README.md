@@ -86,5 +86,6 @@ I'm a big fan of DIY, but also a big fan of DIR - doing it right, so I wanted to
 ## Final thoughts
 
 I believe this is, at the time of writing, the most detailed documentation of the Panasonic AVE-5 mod and the glitches you can get with it. I will be expanding it as I discover new stuff. Feel free to contribute as well! :D
-A lot of interesting visuals can be made by using internal feedback - plugging one of the outputs into an input. You can then mix them with a simple dissolve or using a wipe. Use Fade control to reduce the amount of feedback, this is very important as feedback easily gets overblown, and you just get a white screen.
+A lot of interesting visuals can be made by using internal feedback - plugging one of the outputs into an input. You can then mix them with a simple dissolve or using a wipe. Use Fade control to reduce the amount of feedback, this is very important as feedback easily gets overblown, and you just get a white screen. 
+Also, you should probably use a 330 ohm resistor when shorting the pins, just for good measure, as some combinations give 16mA or more.
 
